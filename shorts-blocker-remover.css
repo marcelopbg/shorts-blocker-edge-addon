@@ -14,11 +14,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
-ytd-item-section-renderer:has(div[id="contents"]):has(ytd-reel-shelf-renderer) {
+ytd-reel-shelf-renderer {
     display: inherit !important;
 }
-
-ytd-rich-shelf-renderer[is-shorts] {
+ytd-rich-shelf-renderer {
     display: inherit !important;
 }
 
