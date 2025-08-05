@@ -1,0 +1,8 @@
+Shorts Blocker (Org Edition) is a streamlined browser extension that automatically blocks YouTube Shorts with no user interface or toggle.
+
+This makes it ideal for schools, organizations, or managed deployments. This edition is perfect for environments where policy-based control is required and user interaction should be minimized.
+
+For more details visit our GitHub repository:
+https://github.com/marcelopbg/shorts-blocker-edge-addon
+
+Please leave a review if you appreciate this extension!

@@ -1,0 +1,10 @@
+Hide YouTube Shorts banners from home and subscription YouTube pages. Also, remove the Shorts menu item from the home page.
+
+You can toggle or untoggle the blocker instantaneously and it'll take effect immediately in your active tab—no need to refresh the page.
+
+You can still actively browse your favorite creator's Shorts through their channels.
+
+The code is open source, so feel free to contribute, clone, raise issues, or just look at it as needed.
+
+Please leave a star at the repo and review if you appreciate this tool!
+https://github.com/marcelopbg/shorts-blocker-edge-addon
