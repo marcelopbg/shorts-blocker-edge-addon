@@ -6,6 +6,9 @@
   "background": {
     "service_worker": "background.js"
   },
+  "host_permissions": [
+    "https://www.youtube.com/*"
+  ],
   "permissions": [
     "scripting",
     "tabs"
